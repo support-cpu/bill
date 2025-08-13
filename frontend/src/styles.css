@@ -1,0 +1,5 @@
+body { font-family: Inter, Arial, sans-serif; padding: 24px; }
+.container { max-width: 900px; margin: auto }
+.orders { width: 100%; border-collapse: collapse; margin-top: 12px }
+.orders th, .orders td { border: 1px solid #ddd; padding: 8px }
+.error { color: red }
